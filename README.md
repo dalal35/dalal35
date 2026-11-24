@@ -26,7 +26,7 @@ Racing telemetry analysis for AiM XRK recordings. It estimates lap deltas, analy
 
 Can the first five orders predict how often the next ten will be changed? A provider-grouped study of 44,362 MIMIC-IV orders, scored with logistic regression and random forest against a majority-class baseline. The write-up is explicit about what the model does not show: it measures order-modification activity, not clinician fatigue or medical error.
 
-Best Integration of Science and Business, 2026 Purdue ISB Challenge. Built with Sri Dhruti Sirigibathina.
+Best Integration of Science and Business, 2026 Purdue ISB Challenge.
 
 [Source](https://github.com/dalal35/Cogni-Shift) · [Methodology](https://github.com/dalal35/Cogni-Shift/blob/main/docs/methodology.md)
 
