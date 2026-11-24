@@ -5,7 +5,7 @@ Data Science and Applied Statistics at Purdue. I build ML and AI tools that turn
 ## Projects
 
 **[Ten Tenths Telemetry](https://github.com/dalal35/Ten-Tenths-Telemetry)**
-Racing telemetry analysis for AiM XRK data: lap-delta estimation, G-G traction and distribution analysis, unit-checked custom channels, and an offline AI driving coach in development.
+Racing telemetry analysis for AiM XRK data: lap-delta estimation, G-G traction and distribution analysis, unit-checked custom channels, and an offline AI driving coach built on a local Gemma model.
 
 **[CogniShift](https://github.com/dalal35/Cogni-Shift)**
 Provider-grouped ML study of 44,362 MIMIC-IV orders, 0.865 ROC-AUC. Best Integration of Science and Business, Purdue ISB Challenge.
