@@ -1,16 +1,21 @@
-## Hi there 👋
+# Yash Dalal
 
-<!--
-**dalal35/dalal35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science and Applied Statistics at Purdue. I build ML and AI tools that turn messy data into decisions.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Ten Tenths Telemetry](https://github.com/dalal35/Ten-Tenths-Telemetry)**
+Racing telemetry analysis for AiM XRK data: lap-delta estimation, G-G traction and distribution analysis, unit-checked custom channels, and an offline AI driving coach in development.
+
+**[CogniShift](https://github.com/dalal35/Cogni-Shift)**
+Provider-grouped ML study of 44,362 MIMIC-IV orders, 0.865 ROC-AUC. Best Integration of Science and Business, Purdue ISB Challenge.
+
+## Stack
+
+Python, SQL, R, Java, PyTorch, scikit-learn, pandas, NumPy, Power BI, TypeScript, Rust
+
+## Work
+
+Portfolio Management at American Modern Insurance Group. Previously Great American Insurance Group and the Knudsen Institute at Purdue's Data Mine.
+
+[LinkedIn](https://www.linkedin.com/in/yash-dalal35/)
