@@ -1,6 +1,6 @@
 # Yash Dalal
 
-Data Science and Applied Statistics at Purdue. I build ML and AI tools that turn messy data into decisions.
+Data Science and Applied Statistics student at Purdue. I build ML and AI tools that turn messy data into decisions.
 
 ## Projects
 
@@ -14,8 +14,8 @@ Provider-grouped ML study of 44,362 MIMIC-IV orders, 0.865 ROC-AUC. Best Integra
 
 Python, SQL, R, Java, PyTorch, scikit-learn, pandas, NumPy, Power BI, TypeScript, Rust
 
-## Work
+## Experience
 
-Portfolio Management at American Modern Insurance Group. Previously Great American Insurance Group and the Knudsen Institute at Purdue's Data Mine.
+Previously at American Modern Insurance Group (Portfolio Management and Product Market Analyst), Great American Insurance Group (ServiceNow Developer), and the Knudsen Institute at Purdue's Data Mine (supply chain intelligence research).
 
 [LinkedIn](https://www.linkedin.com/in/yash-dalal35/)
